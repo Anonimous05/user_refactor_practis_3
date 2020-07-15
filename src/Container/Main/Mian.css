@@ -1,0 +1,29 @@
+table {
+    border: 2px solid #242b2e;
+    width: 98%;
+    margin-top: 40px;
+    margin-left: 1%;
+}
+.name {
+    height: 30px;
+    cursor: pointer;
+    text-align: center;
+    border: 2px solid black;
+    padding-left: 10px;
+    width: 300px;
+    font-family: 'sans-serif',FreeMono;
+}
+.date {
+    width: 50em;
+    height: 30px;
+    cursor: pointer;
+    text-align: center;
+    border: 2px solid black;
+    padding-left: 10px;
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-family: 'sans-serif',FreeMono;
+    font-size: 18px;
+}

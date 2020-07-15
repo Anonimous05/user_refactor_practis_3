@@ -1,0 +1,32 @@
+.Modal {
+    position: fixed;
+    z-index: 500;
+    background: #fff;
+    width: 50%;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px black;
+    padding: 16px;
+    left: 25%;
+    top: 10%;
+    box-sizing: border-box;
+    transition: all 0.3s;
+}
+.Modal button {
+    width: 30%;
+    margin-left: 8%;
+    margin-top: 15%;
+    background: forestgreen;
+    color: white;
+    cursor: pointer;
+    outline: none;
+    border: 2px solid black;
+    text-transform: uppercase;
+}
+.Modal img {
+    margin-left: 65px;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-top: 10px;
+}

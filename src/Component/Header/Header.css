@@ -1,0 +1,20 @@
+.head {
+    background: #b7b5b8;
+    height: 50px;
+}
+.main-nav ul {
+    list-style: none;
+    margin: 0px;
+    padding-top: 13px;
+    display: flex;
+}
+.main-nav a {
+    text-decoration: none;
+    margin-left: 20px;
+    color: white;
+    font-family: 'sans-serif',FreeMono;
+    font-size: 18px;
+}
+.main-nav a:hover {
+    color: #edebee;
+}
